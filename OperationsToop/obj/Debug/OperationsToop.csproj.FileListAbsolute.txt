@@ -1,0 +1,2 @@
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\obj\Debug\OperationsToop.csprojAssemblyReference.cache
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\obj\Debug\OperationsToop.csproj.CoreCompileInputs.cache

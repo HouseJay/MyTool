@@ -1,0 +1,17 @@
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\bin\Debug\OperationsToop.exe
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\bin\Debug\OperationsToop.pdb
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\obj\Debug\OperationsTool.csproj.CoreCompileInputs.cache
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\obj\Debug\OperationsToop.exe
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\obj\Debug\OperationsToop.pdb
+E:\HouseFile\myself\program file\OperationsToop\OperationsToop\obj\Debug\OperationsTool.csprojAssemblyReference.cache
+E:\Commercial Program\OperationsToop\OperationsToop\obj\Debug\OperationsTool.csprojAssemblyReference.cache
+E:\Commercial Program\OperationsToop\OperationsToop\obj\Debug\OperationsTool.csproj.CoreCompileInputs.cache
+E:\Commercial Program\OperationsToop\OperationsToop\obj\Debug\OperationsToop.exe
+E:\Commercial Program\OperationsToop\OperationsToop\obj\Debug\OperationsToop.pdb
+E:\Commercial Program\OperationsToop\OperationsToop\bin\Debug\OperationsToop.exe
+E:\Commercial Program\OperationsToop\OperationsToop\bin\Debug\OperationsToop.pdb
+E:\Commercial Program\OperationsToop\OperationsToop\bin\Debug\OperationsToop.exe.config
+E:\Commercial Program\OperationsToop\OperationsToop\bin\Debug\MySql.Data.dll
+E:\Commercial Program\OperationsToop\OperationsToop\bin\Debug\Google.Protobuf.dll
+E:\Commercial Program\OperationsToop\OperationsToop\bin\Debug\MySql.Data.xml
+E:\Commercial Program\OperationsToop\OperationsToop\obj\Debug\OperationsTool.csproj.CopyComplete
