@@ -409,12 +409,20 @@ namespace OperationsTool
             //判断电脑位数，和文件存放位置
             if (Environment.Is64BitOperatingSystem)
             {
-               
+                patch = "C:\\Windows\\SysWOW64";
             }
             else
             {
-
+                patch = "C:\\Windows\\System32";
             }
+            byte[] b = OperationsToop.Properties.Resources.YFT50;
+            string str = Convert.ToBase64String(b);
+
+            Stream fileSm =  System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream("YFT50.sj");
+            StreamReader fileStream = new StreamReader(fileSm);
+            string YFT50 = fileStream.ReadLine();
+
+
             return false;
         }
 

@@ -26,16 +26,6 @@ namespace OperationsTool
         private static void start()
         {
             int igo = 1;
-            do
-            {
-                Console.WriteLine("请输入密码：");
-                string password = Console.ReadLine();
-                if (string.Equals(password, "ddws"))
-                {
-                    igo = 0;
-                }
-            } while (igo == 1);
-           
             Console.WriteLine("请输入操作命令：" + strSystemOrder);
             while(igo == 0)
             {
@@ -51,7 +41,7 @@ namespace OperationsTool
                         GC.Collect();
                         break;
                     case "ci":
-
+                        checkInterface();
                         break;
                     case "ri":
 
@@ -109,7 +99,7 @@ namespace OperationsTool
             try
             {
                 Console.WriteLine("检查接口文件.............");
-                
+                init.checkInterface();
 
                 Console.WriteLine("请输入操作命令：" + strSystemOrder);
             }
